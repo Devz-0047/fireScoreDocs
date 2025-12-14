@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Introduction
 
-Welcome to the **AceTrack Documentation**.
+Welcome to the **FireScore Documentation**.
 
-**AceTrack** is a next-generation tennis scoreboard application designed for the Team Phoenix Tennis Scoreboard Hackathon.
+**FireScore** is a next-generation tennis scoreboard application designed for the Team Phoenix Tennis Scoreboard Hackathon.
 
 ## The Challenge
 

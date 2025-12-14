@@ -4,13 +4,13 @@ sidebar_position: 1
 
 # System Overview
 
-AceTrack is built using a modern **Single Page Application (SPA)** architecture, ensuring high performance and a seamless user experience.
+FireScore is built using a modern **Single Page Application (SPA)** architecture, ensuring high performance and a seamless user experience.
 
 ## Architecture Diagram
 
 ```mermaid
 graph LR
-    User[User / Client Browser] <-->|React + Vite| Frontend[AceTrack App]
+    User[User / Client Browser] <-->|React + Vite| Frontend[FireScore App]
     Frontend <-->|REST API| API[Team Phoenix API Layer]
     Frontend <-->|TanStack Query| Cache[Client-Side Cache]
     API <-->|JSON Data| DB[Backend Data Source]

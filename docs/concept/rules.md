@@ -6,7 +6,8 @@ sidebar_position: 3
 
 ## 4.6 B - Tie-breaker Rules
 
-AceTrack implements standard tennis tie-breaker rules:
+FireScore implements standard tennis tie-breaker rules:
+
 - At **6-6** games in a set, a tie-breaker is played.
 - The first player to reach **7 points** with a margin of **2 points** wins the set.
 - **Score Representation**: The set score is recorded as `7-6` (with the tie-break score often noted in parenthesis).
@@ -20,5 +21,6 @@ AceTrack implements standard tennis tie-breaker rules:
 ## Fair Play & Integrity
 
 Our system ensures data integrity by:
+
 - Validating score inputs (e.g., preventing impossible scores like 50-10).
 - Tracking official umpire assignments for accountability.

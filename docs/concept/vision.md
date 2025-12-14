@@ -2,15 +2,15 @@
 sidebar_position: 2
 ---
 
-# AceTrack Vision
+# FireScore Vision
 
-## 4.1 Name: AceTrack
+## 4.1 Name: FireScore
 
-We chose the name **AceTrack** to symbolize precision, speed, and the pinnacle of tennis performance (the "Ace"). It represents our commitment to tracking every pivotal moment of the game with accuracy.
+We chose the name **FireScore** to symbolize precision, speed, and the pinnacle of tennis performance (the "Ace"). It represents our commitment to tracking every pivotal moment of the game with accuracy.
 
 ## 4.2 Purpose
 
-AceTrack serves as a centralized hub for tennis fans, officials, and players to:
+FireScore serves as a centralized hub for tennis fans, officials, and players to:
 - **Monitor** live match scores instantly.
 - **Analyze** player performance stats (Aces, Win %, Break Points).
 - **Track** tournament progress and player rankings dynamically.
